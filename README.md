@@ -10,3 +10,6 @@
 - https://www.figma.com/proto/RbVFwUFCXrdTmVie5tR0YH/Untitled?node-id=1-5&p=f&t=6QArQYmKEvJ8X54p-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
 - Para o desenvolvimento do projeto fo ultilizado o figma para a montagem e o canva para edição de imagens
 - leticiavieira4 (github)
+-  ![Design sem nome](https://github.com/user-attachments/assets/4b4e038a-4f2c-4358-ba6a-03aac0fdcaaf)
+
+
